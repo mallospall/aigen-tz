@@ -1,0 +1,11 @@
+.Header {
+    background-color: rgb(67, 67, 67);
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.HeaderText {
+    color: white;
+    padding-left: 15px;
+}

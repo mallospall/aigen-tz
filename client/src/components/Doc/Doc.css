@@ -1,0 +1,11 @@
+.doc {
+    height: 40px;
+    background-color: rgb(210,232,182);
+    margin-top: 20px;
+    border-width: 0;
+}
+
+.more {
+    height: 100px;
+    border: 2px solid #FFFFFF;
+}
