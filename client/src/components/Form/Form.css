@@ -1,8 +1,44 @@
+/* .Form {
+    float: left;
+    width: 40%;
+} */
+
+.box {
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.textID {
+    font-size: 13px;
+    color: rgb(139, 8, 8);
+}
+
+input {
+    width: 400px;
+    height: 35px;
+    border-radius: 3px;
+    border-width:  1px;
+}
+
+.date {
+    width: 190px;
+    height: 35px;
+}
+
+.select-box{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.css-b62m3t-container {
+    width: 190px;
+}
+
+@media screen and (min-width: 1150px) {
 .Form {
     float: left;
     width: 40%;
 }
-
-.box {
-    margin: 40px;
 }
